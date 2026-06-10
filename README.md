@@ -20,47 +20,13 @@ Currently pursuing AI & Data Science at KL University while developing hands-on 
 
 #### Programming Languages
 
-* Python
-* JavaScript
-* SQL
-
-#### Frontend
-
-* React
-* HTML5
-* CSS3
-
-#### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-
-#### Database
-
-* MySQL
-* SQL
-
-#### Cloud & Tools
-
-* AWS
-* Git
-* GitHub
-* Power BI
+* Python,JavaScript,SQL
 
 ### 📂 Featured Projects
 
 #### WebEdu – Online Webinar Management Platform
 
 A full-stack web application that enables users to register and attend webinars while allowing administrators to manage events, users, and webinar content.
-
-**Tech Stack:** React, Node.js, SQL, REST APIs
-
-#### Smart Email Summarizer
-
-An AI-powered application that converts lengthy emails into concise summaries and actionable insights.
-
-**Tech Stack:** React, Node.js, JavaScript, AI APIs
 
 ### 🏆 Certifications
 
@@ -79,5 +45,3 @@ An AI-powered application that converts lengthy emails into concise summaries an
 * Cloud Computing
 * Data Analytics
 * Artificial Intelligence & Machine Learning
-
-*"Building impactful software solutions through code, data, and cloud technologies."*
