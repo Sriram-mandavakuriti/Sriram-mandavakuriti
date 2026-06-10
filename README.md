@@ -1,28 +1,83 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sriram Mandavakuriti
-=============================================================================================================================================
+## AWS Certified Cloud Practitioner | Full-Stack Developer | AI & Data Science Student
 
-AI & Data Science Student | Data Analytics | Python | SQL | Machine Learning
-----------------------------------------------------------------------------
+Passionate and results-driven developer with a strong interest in Full-Stack Development, Cloud Computing, Data Analytics, and Artificial Intelligence. I enjoy building scalable applications, solving real-world problems through technology, and continuously expanding my technical expertise.
 
-I am a passionate and detail-oriented aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights that support informed decision-making. I enjoy working with data, identifying patterns, solving problems, and creating visualizations that communicate complex information in a simple and effective way.
+Currently pursuing AI & Data Science at KL University while developing hands-on projects using modern technologies such as React, Node.js, Python, SQL, and AWS Cloud Services.
 
-My journey into data analytics began with a curiosity about how organizations use data to drive business growth and improve performance. Since then, I have been continuously developing my skills in data cleaning, analysis, visualization, and reporting through hands-on projects and professional learning programs.
+### 🚀 About Me
 
-I have completed the Google Data Analytics Professional Certificate, where I gained practical experience in the complete data analysis process, including asking the right questions, preparing data, processing and cleaning datasets, conducting analysis, creating visualizations, and sharing insights with stakeholders.
+* ☁️ AWS Certified Cloud Practitioner
+* 🎓 AI & Data Science Student at KL University
+* 📊 Google Data Analytics Professional Certificate Holder
+* 💻 Full-Stack Developer (React.js, Node.js, REST APIs)
+* 🗄️ Experienced with SQL and Database Management
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 📈 Passionate about Data Analytics and Business Intelligence
+* 🌱 Continuously learning Cloud Computing, System Design, and Modern Web Technologies
 
-\- 🎓 Completed Google Data Analytics Professional Certificate
+### 🛠️ Tech Stack
 
-\- 📈 Interested in Data Analytics and Business Intelligence
+#### Programming Languages
 
-\- 🐍 Learning Python for Data Analysis
+* Python
+* JavaScript
+* SQL
 
-\- 🗄️ Working with SQL for data querying and management
+#### Frontend
 
-\- 📊 Creating dashboards using Power BI and Excel
+* React
+* HTML5
+* CSS3
 
-\- 🌱 Continuously improving my analytical and problem-solving skills
+#### Backend
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [srirammandavakuriti10@gmail.com](mailto:srirammandavakuriti10@gmail.com)
-* 👥  I'm looking to collaborate on projects, learning from experienced professionals, and connecting with individuals who share an interest in data analytics, technology, and innovation.
-* 💬  Ask me about Thank you for visiting my GitHub profile. Feel free to explore my repositories and follow my journey as I continue learning, building, and growing in the field of Data Analytics.
+* Node.js
+* Express.js
+* REST APIs
+
+#### Database
+
+* MySQL
+* SQL
+
+#### Cloud & Tools
+
+* AWS
+* Git
+* GitHub
+* Power BI
+
+### 📂 Featured Projects
+
+#### WebEdu – Online Webinar Management Platform
+
+A full-stack web application that enables users to register and attend webinars while allowing administrators to manage events, users, and webinar content.
+
+**Tech Stack:** React, Node.js, SQL, REST APIs
+
+#### Smart Email Summarizer
+
+An AI-powered application that converts lengthy emails into concise summaries and actionable insights.
+
+**Tech Stack:** React, Node.js, JavaScript, AI APIs
+
+### 🏆 Certifications
+
+* AWS Certified Cloud Practitioner
+* Google Data Analytics Professional Certificate
+
+### 📫 Connect With Me
+
+* 📧 Email: [srirammandavakuriti10@gmail.com](mailto:srirammandavakuriti10@gmail.com)
+* 🌍 India
+
+### 💡 Career Interests
+
+* Software Development
+* Full-Stack Engineering
+* Cloud Computing
+* Data Analytics
+* Artificial Intelligence & Machine Learning
+
+*"Building impactful software solutions through code, data, and cloud technologies."*
